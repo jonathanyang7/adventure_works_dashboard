@@ -4,6 +4,8 @@ Adventure Works Dashboard
 
 Revenue analysis and visualisation of the Adventure Works relational dataset, built with SQL and PowerBI.
 
+## Project Screen Shots
+
 #### Example:
 
 ![image](https://github.com/jonathanyang7/adventure_works_dashboard/blob/d74e39dd67517efd30b78623f93abf8dd516af4f/02.%20Visualisation/Key_revenue_drivers.png)
