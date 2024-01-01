@@ -1,6 +1,6 @@
-## Project Name & Pitch
+## Project Name & Description
 
-Adventure Works Dashboard
+Diagnosing Adventure
 
 Revenue analysis and visualisation of the Adventure Works relational dataset, built with SQL and PowerBI (incl. DAX).
 
