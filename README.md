@@ -8,12 +8,6 @@ Revenue analysis and visualisation of the Adventure Works relational dataset, bu
 ![image](https://github.com/jonathanyang7/adventure_works_dashboard/blob/d74d43670d08e65ccc8cfcfe3c7f8fa5402e936a/02.%20Visualisation/Internet_sales_analysis.png)
 ![image](https://github.com/jonathanyang7/adventure_works_dashboard/blob/d74d43670d08e65ccc8cfcfe3c7f8fa5402e936a/02.%20Visualisation/Reseller_analysis.png)
 
-## Installation and Setup Instructions
-
-1. Download Adventure Works Data Warehouse file from [Microsoft](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms).
-2. Run the SQL queries in MySQL
-3. View the PowerBI dashboard in PowerBI
-
 ## Reflection
 
 This one-week project aimed to reinforce the advanced SQL skills I acquired through [Mode](https://mode.com/sql-tutorial), and apply the PowerBI training I at received PwC. The primary goal was to develop a dashboard for the internal 'Adventure Works' team to monitor and analyse their annual revenue.
