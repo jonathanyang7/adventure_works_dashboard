@@ -1,6 +1,6 @@
 ## Adventureworks dashboard
 
-Revenue analysis and visualisation of the Adventure Works relational dataset, built with SQL and PowerBI (incl. DAX).
+Queried the Microsoft Adventure-Works relational database with SQL (SQL Server) and created a PowerBI dashboard for revenue analysis.
 
 ## Project Screen Shots
 
