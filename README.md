@@ -1,4 +1,5 @@
 # Adventureworks dashboard
+Key skills: T-SQL, PowerBI & DAX
 
 Queried the Microsoft Adventure-Works relational database with T-SQL and created a PowerBI dashboard for revenue analysis.
 
